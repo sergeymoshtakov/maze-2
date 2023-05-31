@@ -1,0 +1,29 @@
+C:\Users\armin\Desktop\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\armin\Desktop\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\armin\Desktop\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.pdb
+Z:\Desktop\Maze - Copy\Maze\bin\Debug\Maze.exe.config
+Z:\Desktop\Maze - Copy\Maze\bin\Debug\Maze.exe
+Z:\Desktop\Maze - Copy\Maze\bin\Debug\Maze.pdb
+Z:\Desktop\Maze - Copy\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+Z:\Desktop\Maze - Copy\Maze\obj\Debug\Maze.Form1.resources
+Z:\Desktop\Maze - Copy\Maze\obj\Debug\Maze.Properties.Resources.resources
+Z:\Desktop\Maze - Copy\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+Z:\Desktop\Maze - Copy\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+Z:\Desktop\Maze - Copy\Maze\obj\Debug\Maze.exe
+Z:\Desktop\Maze - Copy\Maze\obj\Debug\Maze.pdb
+Z:\Desktop\maze-main\Maze\bin\Debug\Maze.exe.config
+Z:\Desktop\maze-main\Maze\bin\Debug\Maze.exe
+Z:\Desktop\maze-main\Maze\bin\Debug\Maze.pdb
+Z:\Desktop\maze-main\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+Z:\Desktop\maze-main\Maze\obj\Debug\Maze.Form1.resources
+Z:\Desktop\maze-main\Maze\obj\Debug\Maze.Properties.Resources.resources
+Z:\Desktop\maze-main\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+Z:\Desktop\maze-main\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+Z:\Desktop\maze-main\Maze\obj\Debug\Maze.exe
+Z:\Desktop\maze-main\Maze\obj\Debug\Maze.pdb

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", "{5D0105C8-354D-4431-BD4E-BAAD77AC4D1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1299E8A3-75F8-4B68-8DC0-41CC00DA4967}"
+	ProjectSection(SolutionItems) = preProject
+		Maze\bin\Debug\background_music.mp3 = Maze\bin\Debug\background_music.mp3
+		Maze\bin\Debug\coffee.png = Maze\bin\Debug\coffee.png
+		Maze\bin\Debug\enemy.png = Maze\bin\Debug\enemy.png
+		Maze\bin\Debug\explosion_sound.mp3 = Maze\bin\Debug\explosion_sound.mp3
+		Maze\bin\Debug\hall.png = Maze\bin\Debug\hall.png
+		Maze\bin\Debug\kick_sound.mp3 = Maze\bin\Debug\kick_sound.mp3
+		Maze\bin\Debug\medal.png = Maze\bin\Debug\medal.png
+		Maze\bin\Debug\medicine.png = Maze\bin\Debug\medicine.png
+		Maze\bin\Debug\player.png = Maze\bin\Debug\player.png
+		Maze\bin\Debug\wall.png = Maze\bin\Debug\wall.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0105C8-354D-4431-BD4E-BAAD77AC4D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0105C8-354D-4431-BD4E-BAAD77AC4D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0105C8-354D-4431-BD4E-BAAD77AC4D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0105C8-354D-4431-BD4E-BAAD77AC4D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC924C9-45BB-416E-B3E6-48B2FB861E0F}
+	EndGlobalSection
+EndGlobal
